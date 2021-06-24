@@ -1,0 +1,27 @@
+{
+  "name": "ace-pointer",
+  "version": "1.0.0",
+  "description": "Demo Project for test assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungkyawsoemin/ace-pointer.git"
+  },
+  "author": "aksm.online",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungkyawsoemin/ace-pointer/issues"
+  },
+  "homepage": "https://github.com/aungkyawsoemin/ace-pointer#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "node-cache": "^5.1.2",
+    "node-file-cache": "^1.0.2",
+    "yargs": "13.2"
+  }
+}
